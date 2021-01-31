@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+
+.bread {
+    padding: 20px;
+}
+
+.inputPesquisa {
+    padding: 10Px;
+}
